@@ -1,0 +1,14 @@
+{
+  "name": "imgslider",
+  "version": "1.0.0",
+  "description": "tailwind",
+  "main": "index.js",
+  "scripts": {
+    "start":"vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.2.10"
+  }
+}
